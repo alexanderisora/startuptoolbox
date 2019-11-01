@@ -715,8 +715,8 @@ via Amazon SES.
 * [Alexa](https://www.alexa.com/)
 
 ## Paid ads
-* [Goa.marketing](https://www.goa.marketing/) - Сервис помогает не пропустить проблемы в рекламных кампаниях Paid Search в Google Ads.
-* [Kenshoo](https://kenshoo.com/) [_[PH]_](https://www.producthunt.com/posts/kensho) - Сервис автоматизирует управление ставками и стратегиями рекламных кампаний в Google Ads, Яндекс Директ, Bing, Yahoo, Search Ads, Bia du, Pinterest.
+* [Goa.marketing](https://www.goa.marketing/) - Get actionable data insights on your paid Search in Google Ads.
+* [Kenshoo](https://kenshoo.com/) [_[PH]_](https://www.producthunt.com/posts/kensho) - Automate your ad bids and strategies in Google Ads, Bing, Yahoo, Pinterest etc.
 
 ## Affiliates
 * [PartnerStack](https://www.partnerstack.com/)
