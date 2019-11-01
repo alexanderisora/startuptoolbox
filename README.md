@@ -135,7 +135,7 @@ The curated crowdsourced collection of tools for startups makers.
 * [Jekyll](https://jekyllrb.com/) [_[PH]_](https://www.producthunt.com/posts/jekyll-2-0) - A static website and blog generator with lots of tempaltes.
 * [Designmodo](http://designmodo.com/startup) [_[PH]_](https://www.producthunt.com/posts/startup-3-2) - Beautifully designed yet pricey HTML landing pages.
 * [Hugo](https://gohugo.io/) - The fastest static site generator.
-* [Gatsby](https://www.gatsbyjs.org/) [_[PH]_](https://www.producthunt.com/posts/gatsby-2)
+* [Gatsby](https://www.gatsbyjs.org/) [_[PH]_](https://www.producthunt.com/posts/gatsby-2) - A React-based framework that helps developers to build websites.
 
 ## Lead generation
 * [Proof](https://useproof.com/) [_[PH]_](https://www.producthunt.com/posts/proof-7) - Adds some social proof to your website.
