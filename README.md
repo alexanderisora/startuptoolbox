@@ -1,5 +1,5 @@
 # StartupToolbox
-The curated crowdsourced collection of tools for startups makers.
+The curated crowdsourced collection of 700+ tools for startups makers.
 
 # Table of contents
 - [Website](#website)
