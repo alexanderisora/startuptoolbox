@@ -1050,14 +1050,8 @@ via Amazon SES.
 * [Sheet2site](https://www.sheet2site.com/) [_[PH]_](https://www.producthunt.com/posts/sheet2site-2-0)
 
 
-# Sponsors
-[<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/sponsors/findbitcoinatm_sponsor_logo.png">](https://www.findbitcoinatm.com.au/)
-
-[<img height="70" src="https://raw.githubusercontent.com/coinpride/CryptoList/master/sponsors/crypto_weekly_list.png">](https://cryptoweekly.co/list/?ref=coinpride)
-
-[<img width="240" src="https://raw.githubusercontent.com/coinpride/CryptoList/master/sponsors/quadency.jpg">](https://quadency.com/?utm_source=GitHubCL&utm_medium=Sponsorship&utm_campaign=CryptoList)
 
 # Contribute
-Found a nice link? Noticed a bug? Feel free to contribute! You are so much welcome! But read the [CONTRIBUTING.md](https://github.com/coinpride/CryptoList/blob/master/CONTRIBUTING.md) first.
+Found a nice link? Noticed a bug? Feel free to contribute! You are so much welcome! But read the [CONTRIBUTING.md](https://github.com/alexanderisora/startuptoolbox/blob/master/CONTRIBUTING.md) first.
 # License
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
