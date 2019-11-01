@@ -909,7 +909,7 @@ via Amazon SES.
 * [TheNameApp](https://thenameapp.com/)
 
 ## Other 
-* [Trademark Search by Marcaria](https://trademark-search.marcaria.com/en) - 1 seach without signing up per IP
+* [Trademark Search by Marcaria](https://trademark-search.marcaria.com/en) - 1 search without signing up per IP.
 
 
 # Legal, Account and Invoicing
