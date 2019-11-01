@@ -258,7 +258,7 @@ The curated crowdsourced collection of 700+ tools for startups makers.
 # Support and customer communication
 
 ## Live customer chats
-* [Chatra](https://chatra.io) [_[PH]_](https://www.producthunt.com/posts/chatra) - Live chat software done right 💙
+* [Chatra](https://chatra.io) [_[PH]_](https://www.producthunt.com/posts/chatra) - Live chat software done right.
 * [Intercom](https://intercom.com) [_[PH]_](https://www.producthunt.com/posts/intercom-4) - Live chat, support, knowledge base and more.
 * [Crisp](https://crisp.chat) [_[PH]_](https://www.producthunt.com/posts/crisp-2-0) - Live chat and live support for your product.
 * [Olark](https://www.olark.com/) [_[PH]_](https://www.producthunt.com/posts/olark-2-0) - Easy to use live chat software.
