@@ -148,8 +148,7 @@ The curated crowdsourced collection of tools for startups makers.
 * [Sketch](https://www.sketch.com/) [_[PH]_](https://www.producthunt.com/posts/sketch-40) - Industry leading design toolkit. OSX only.
 * [Figma](https://www.figma.com/) [_[PH]_](https://www.producthunt.com/posts/figma-3-0) - Online design tool. Powerful and fast. Written in C++.
 * [Adobe XD](https://www.adobe.com/products/xd.html) [_[PH]_](https://www.producthunt.com/posts/adobe-xd-19-0) - Slick design platform. Adobe's effort to stay in trend.
-* [Flinto](https://www.flinto.com/) [_[PH]_](https://www.producthunt.
-com/posts/flinto) - Quickly Create iOS Prototypes.
+* [Flinto](https://www.flinto.com/) [_[PH]_](https://www.producthunt.com/posts/flinto) - Quickly Create iOS Prototypes.
 * [Invision](https://www.invisionapp.com/) [_[PH]_](https://www.producthunt.com/posts/invision) - A prototyping tool for teams. Invision is a well-funded and large company.
 * [Marvel](https://marvelapp.com/) [_[PH]_](https://www.producthunt.com/posts/marvel-2-0-2) - All-in-one design solution.
 * [Proto](https://proto.io/) [_[PH]_](https://www.producthunt.com/posts/proto-io-6) - Interactive, high-fidelity mobile prototypes.
