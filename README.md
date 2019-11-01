@@ -1,5 +1,7 @@
 # StartupToolbox
 The curated crowdsourced collection of 700+ tools for startups makers.
+<img height="270" src="https://github.com/alexanderisora/startuptoolbox/blob/master/media/startup-toolbox-banner.png">
+
 
 # Table of contents
 - [Website](#website)
