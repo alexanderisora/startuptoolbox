@@ -1,6 +1,7 @@
 # StartupToolbox
 The curated crowdsourced collection of tools for startups makers.
 
+# Table of contents
 - [Website](#website)
 	- [Hosted website builders](#hosted-website-builders)
 	- [Static generators](#static-generators)
