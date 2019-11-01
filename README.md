@@ -1,13 +1,5 @@
-# Startup Toolbox
+# StartupToolbox
 The curated crowdsourced collection of tools for startups makers.
-
-[<img src="https://github.com/coinpride/CryptoList/blob/master/cryptolist_logo.png?raw=true" width="500">](https://github.com/coinpride/CryptoList)
-
-# Sponsors and Backers
-CryptoList is maintained by enthusiasts.
-Support the project by making an [Open Collective](https://opencollective.com/cryptolist) donation.
-
-[<img src="https://github.com/coinpride/CryptoList/blob/master/sponsors/opencollective2.png?raw=true" width="416">](https://opencollective.com/cryptolist)
 
 - [Website](#website)
 	- [Hosted website builders](#hosted-website-builders)
