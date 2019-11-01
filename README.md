@@ -1053,6 +1053,7 @@ via Amazon SES.
 
 # Sponsors
 [<img height="100" src="https://github.com/alexanderisora/startuptoolbox/blob/master/sponsors/badge_400x100.png">](https://unicornplatform.com/?ref=startuptoolbox)
+
 Your logo and link to your project will be placed here forever for a fixed price.
 
 # Contribute
