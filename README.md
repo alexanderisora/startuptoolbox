@@ -1,5 +1,9 @@
 # StartupToolbox
 The curated crowdsourced collection of 700+ tools for startups makers.
+
+Created by Alexander Isora ([Telegram](https://t.me/serene_startup), [Twitter](https://twitter.com/alexanderisora)). Fillied in by the community.
+
+
 <img width="480" src="https://github.com/alexanderisora/startuptoolbox/blob/master/media/startup-toolbox-header.png">
 
 
