@@ -127,7 +127,7 @@ Created by Alexander Isora ([Telegram](https://t.me/serene_startup), [Twitter](h
 # Website
 
 ## Hosted website builders
-* [Unicorn Platform](https://unicornplatform.com) [_[PH]_](https://www.producthunt.com/posts/unicorn-platform) - Modern landing page builder for startups. Founded by the author of this list 💙
+* [Unicorn Platform](https://unicornplatform.com) [_[PH]_](https://www.producthunt.com/posts/unicorn-platform-v2-0) - Modern landing page builder for startups. Founded by the author of this list 💙
 * [ProductHunt Ship](https://www.producthunt.com/ship) [_[PH]_](https://www.producthunt.com/posts/ship-by-product-hunt) - Create a pretty 'coming soon' page to get a more powerful PH launch.
 * [Shopify](https://www.shopify.com/) [_[PH]_](https://www.producthunt.com/posts/shopify) - The leading e-commerce site builder with a large ecosystem.
 * [Webflow](https://webflow.com) [_[PH]_](https://www.producthunt.com/posts/webflow) - A complicated yet powerful builder for professionals.
