@@ -410,7 +410,7 @@ Created by Alexander Isora ([Telegram](https://t.me/serene_startup), [Twitter](h
 * [Formist](https://formist.io/) - Collect feedback. Gather reservations. Take payments.
 
 ## Endpoints
-* [Getform](https://getform/) [_[PH]_](https://www.producthunt.com/posts/getform-2-0) - Form backend platform for designers and developers.
+* [Getform](https://getform.io/) [_[PH]_](https://www.producthunt.com/posts/getform-2-0) - Form backend platform for designers and developers.
 * [Formkeep](https://formkeep.com/) [_[PH]_](https://www.producthunt.com/posts/formkeep) - Form endpoints for designers and developers.
 
 ## Other forms
