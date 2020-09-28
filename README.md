@@ -496,6 +496,7 @@ Created by Alexander Isora ([Telegram](https://t.me/serene_startup), [Twitter](h
 * [GTMetrix](http://gtmetrix.com/) - Website speed and performance optimization.
 
 ## Other tech tools
+* [Abstract APIs](https://www.abstractapi.com) - Suite of APIs for everyday needs (validating emails, creating user avatars, calculating VAT, etc).
 * [Public APIs list](https://github.com/toddmotto/public-apis) - A collective list of free APIs for use in software and web development.
 * [Codacy](https://www.codacy.com/) [_[PH]_](https://www.producthunt.com/posts/codacy-2) - Improve code quality by automating code reviews.
 * [Algolia](https://www.algolia.com/) [_[PH]_](https://www.producthunt.com/posts/algolia-hosted-search-api) - Building blocks for creating great search.
