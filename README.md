@@ -412,6 +412,7 @@ Created by Alexander Isora ([Telegram](https://t.me/serene_startup), [Twitter](h
 ## Endpoints
 * [Getform](https://getform.io/) [_[PH]_](https://www.producthunt.com/posts/getform-2-0) - Form backend platform for designers and developers.
 * [Formkeep](https://formkeep.com/) [_[PH]_](https://www.producthunt.com/posts/formkeep) - Form endpoints for designers and developers.
+* [Form.taxi](https://form.taxi/) - Backend to handle HTML forms submissions with ease.
 
 ## Other forms
 * [Sonadier](https://www.sonadier.com/) [_[PH]_](https://www.producthunt.com/posts/sonadier) - Drag-and-drop editor to build database forms, no programming.
