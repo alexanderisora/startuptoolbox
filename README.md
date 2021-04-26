@@ -436,6 +436,7 @@ Created by Alexander Isora ([Telegram](https://t.me/serene_startup), [Twitter](h
 * [Bugsnag](https://www.bugsnag.com/) [_[PH]_](https://www.producthunt.com/posts/bugsnag) - Automated crash monitoring for web and mobile apps.
 * [Bugsee](https://www.bugsee.com/) [_[PH]_](https://www.producthunt.com/posts/bugsee-2) - See video, network & logs leading up to bugs or crashes. For iOS and Android apps.
 * [Logrocket](https://logrocket.com/) [_[PH]_](https://www.producthunt.com/posts/logrocket) - See video, network & logs leading up to bugs in your app.
+* [Shake](https://www.shakebugs.com/) [_[PH]_](https://www.producthunt.com/posts/shake-sdk) - Bug reporting and tracking tool for mobile apps.
 
 ## Log inspectors
 * [Coralogix](https://coralogix.com/) [_[PH]_](https://www.producthunt.com/posts/coralogix-2-0) - Machine learning powered log analytics, made for startups.
