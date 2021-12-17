@@ -382,7 +382,7 @@ Created by Alexander Isora ([Telegram](https://t.me/serene_startup), [Twitter](h
 * [SheetGo](https://www.sheetgo.com/) [_[PH]_](https://www.producthunt.com/posts/sheetgo-workflows) - Create workflows from your spreadsheet.
 * [PieSync](https://www.piesync.com/) [_[PH]_](https://www.producthunt.com/posts/piesync) - Two-way sync between your CRM, Google Apps and more.
 * [Flowxo](https://flowxo.com/) [_[PH]_](https://www.producthunt.com/posts/flowxo) - Build automated workflows on top of your existing cloud apps.
-
+* [Outfunnel](https://outfunnel.com/) [_[PH]_](https://www.producthunt.com/posts/app-connector-by-outfunnel) - Connect your sales and marketing data, deeply and easily.
 
 # HR and Payroll
 * [Gusto](https://gusto.com/) [_[PH]_](https://www.producthunt.com/posts/gusto-2) - Payroll, benefits, and HR.
