@@ -428,6 +428,7 @@ Created by Alexander Isora ([Telegram](https://t.me/serene_startup), [Twitter](h
 * [Atatus](https://www.atatus.com/) - Monitor your entire software stack.
 * [Statuscake](https://www.statuscake.com/) [_[PH]_](https://www.producthunt.com/posts/statuscake) - Free unlimited website monitoring.
 * [Uptimerobot](https://uptimerobot.com/) [_[PH]_](https://www.producthunt.com/posts/uptime-robot-app) - Free uptime monitoring service.
+* [Instatus](https://instatus.com) [_[PH]_](https://producthunt.com/posts/instatus) – Quick and beautiful status page.
 
 ## Bug tracking
 * [Rollbar](https://rollbar.com/) [_[PH]_](https://www.producthunt.com/posts/rollbar) - Real-time error tracking for Javascript and more.
